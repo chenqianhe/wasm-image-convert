@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   modules: ['@vueuse/nuxt', '@nuxt/eslint', '@nuxt/ui'],
   app: {
-    baseURL: '/wasm-image-convert/',
+    baseURL: '/',
   },
   experimental: {
     payloadExtraction: false,
